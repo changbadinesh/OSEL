@@ -1,0 +1,27 @@
+Change Logs (of OSEL- Open Student Evaluation Lab)
+
+What's New In version 1.2
+1. A major bug fix that was causing error in excel 2007.
+2. Now you can set name the person preparing the Grade Sheet.
+
+
+What's New In version 1.1
+1. A minor bug fix that says "Subscript out of range" caused by shorthand rererencing style of workbook without  its extension.
+2. Now you can put issued date of gradesheet manually. (It was a human error  as we forgot about it )
+
+Important Notice!!
+IF YOU HAVE ALREADY STARTED  DATA ENTRY IN VERSION 1.0 or VERSION 1.1, You simply copy and replace the "Data.xlsx" of OSEL V1.2 folder with "Data.xlsx" from older version of OSEL						
+
+For tutorial video copy following youtube link and open in any browser(chrome/firefox)
+(युट्युबमा यो सफ्टवेयर कसरी प्रयोग गर्ने भन्ने सम्बन्धमा एउटा भिडिओ राखिएको छ उक्त भिडिओ हेर्नको लागि तलको लिंक पर्योग गर्नुसहोस्)
+https://www.youtube.com/watch?v=myvbZQT_gQI&t=1079s
+
+बिस्तृत विवरण :
+
+प्रस्तुत छ OSEL विद्यालयहरूका लागि निःशुल्क, प्रयोग गर्न सजिलो, ग्रेड सिट र ग्रेड लेजर एप्लिकेसन । यो एप विद्यार्थीको ग्रेड र अन्य डेटा व्यवस्थापन गर्ने प्रक्रियालाई सरल र प्रभावकारी बनाउन डिजाइन गरिएको हो। धेरै सुविधाहरू जस्तै EMIS बाट तथ्यांक आयात गर्ने , शिक्षक र Admin हरुले सजिलैसँग उनीहरूको विद्यालयको EMIS प्रणालीबाट विद्यार्थी डेटा आयात गर्न सक्छन्। एपले सजिलो डेटा प्रविष्टि, ट्र्याकिङ, र ग्रेड, हाजिरी  र थप रिपोर्ट बनाउन मदत गर्दछ। OSELशिक्षक, कम्प्युटर एडमिन वा विद्यार्थी सबैको डेटा व्यवस्थापनको लागि उत्तम उपकरण हो। यसलाई आजैबाट प्रयोग गरी हेर्नुहोस् र यसले तपाईंको विद्यालयमा पार्न सक्ने भिन्नताहरू हेर्नुहोस्। यो पूर्णतया निशुल्क छ | 
+
+Introducing OSEL, a free, user-friendly grade sheet and ledger app for schools. This app is designed to make the process of managing student grades and other data simple and efficient. With multiple features such as EMIS import, teachers and administrators can easily import student data from their school's EMIS system. The app also allows for easy data entry, tracking, and reporting of grades, attendance, and more. Whether you're a teacher, administrator, or student, OSEL is the perfect tool for managing student data. Try it out today and see the difference it can make in your school. It's totally free software made for nepali school. 
+
+OSEL version 1.2 
+by Open IT Lab 
+2023(c)
